@@ -5,10 +5,10 @@ I' computer Scientist passionate abaout machine learning and web development.
 My general purpose is make a positive impact on any environment.
 
 ### Technologies
-[![py](https://img.shields.io/badge/Python-8B8987?logo=Python&style=for-the-badge&logoColor=3776AB&link=)](https://github.com/itsorivera)
-[![ts](https://img.shields.io/badge/TypeScript-8B8987?logo=typescript&style=for-the-badge&link=)](https://github.com/itsorivera)
-[![js](https://img.shields.io/badge/JavaScript-8B8987?logo=javascript&style=for-the-badge&link=)](https://github.com/itsorivera)
-[![nodejs](https://img.shields.io/badge/Node.js-8B8987?logo=nodedotjs&style=for-the-badge&link=)](https://github.com/itsorivera)
+[![py](https://img.shields.io/badge/Python-2E2D2D?logo=Python&style=for-the-badge&logoColor=3776AB&link=)](https://github.com/itsorivera)
+[![ts](https://img.shields.io/badge/TypeScript-2E2D2D?logo=typescript&style=for-the-badge&link=)](https://github.com/itsorivera)
+[![js](https://img.shields.io/badge/JavaScript-2E2D2D?logo=javascript&style=for-the-badge&link=)](https://github.com/itsorivera)
+[![nodejs](https://img.shields.io/badge/Node.js-2E2D2D?logo=nodedotjs&style=for-the-badge&link=)](https://github.com/itsorivera)
 
 ### My links
 <!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://itsorivera-portfolio.deno.dev/) -->
