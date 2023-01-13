@@ -1,5 +1,7 @@
 ### Hi there 👋
+# Hi, I´m Oscar!
 
+Computer Scientist passionate abaout machine learning and web development.
 <!--
 **itsorivera/itsorivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
