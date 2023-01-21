@@ -1,6 +1,6 @@
 ## Hi, I´m Oscar!
 
-I'm a computer scientist passionate about machine learning and web development.
+I'm a passionate about machine learning and web development.
 
 My general purpose is make a positive impact on any environment.
 
